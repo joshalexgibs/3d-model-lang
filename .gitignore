@@ -1,0 +1,6 @@
+*.bak
+*.rkt~
+/doc
+/compiled
+*.1
+*.2
